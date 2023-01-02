@@ -1,0 +1,12 @@
+Name:  YORU
+Student ID: CSE2002
+Class Roll no.: 2
+
+C code Course Name                             Marks Grade Status
+ C003   PROGRAMMING FOR PROBLEM SOLVING USING PYTHON95    A    Pass
+ C003   PROGRAMMING FOR PROBLEM SOLVING USING PYTHON98    A    Pass
+ C004   ECONOMICS AND FINANCE                    83    B    Pass
+ C005   ESSENTIAL STUDIES FOR PROFESSIONALS-I    76    C    Pass
+ C006   SKILL DEVELOPMENT FOR PROFESSIONALS-I    63    D    Pass
+ C007   DESIGN THINKING AND INNOVATION BASIC     84    B    Pass
+ C008   PHYSICS                                  90    A    Pass
